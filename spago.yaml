@@ -1,0 +1,26 @@
+package:
+  dependencies:
+    - arrays
+    - console
+    - control
+    - debug
+    - effect
+    - either
+    - foldable-traversable
+    - js-date
+    - lists
+    - maybe
+    - newtype
+    - nonempty
+    - parsing
+    - prelude
+    - psci-support
+    - quickcheck
+    - string-parsers
+    - strings
+    - test-unit
+  name: browser-cookies
+workspace:
+  packageSet:
+    registry: 61.0.2
+  extraPackages: {}
